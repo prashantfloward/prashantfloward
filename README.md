@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prashantfloward
+- 👋 Hi, I’m Prashant (@prashantfloward)
 - 👀 I’m interested in quality software.
 - 🌱 I’m currently learning Playwright and Cypress
 - 💞️ I’m looking to collaborate on slack.
